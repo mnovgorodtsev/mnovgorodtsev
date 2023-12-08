@@ -1,3 +1,4 @@
+<h1 align="center">Hi there, Matwej Novgorodtsev</h1>
 <h3 align="center">Python Developer | Automatics & Robotics 3rd year student</h3>
 
 <h3 align="left">Connect with me:</h3>
