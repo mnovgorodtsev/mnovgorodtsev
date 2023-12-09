@@ -6,6 +6,7 @@
 </p>
 
 ### Tools and languages:
+
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
