@@ -1,5 +1,5 @@
 <h1 align="center">Matwej Novgorodtsev</h1>
-<h3 align="center">Python Developer | Automatics & Robotics 3rd year student</h3>
+<h3 align="center">Python Developer | Computer Science master degree student | Automatics & Robotics Engineer | </h3>
 
 
 <p align="left">
