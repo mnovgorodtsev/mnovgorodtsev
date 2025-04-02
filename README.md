@@ -1,5 +1,5 @@
 <h1 align="center">Matwej Novgorodtsev</h1>
-<h3 align="center">Python Developer | Computer Science master degree student | Automatics & Robotics Engineer | </h3>
+<h3 align="center">Python Developer | Automatics & Robotics Engineer <br> Computer Science master degree student | </h3>
 
 
 <p align="left">
@@ -7,7 +7,7 @@
 
 
 
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Main Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
     <a href="https://isocpp.org/"><img alt="Python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
